@@ -24,7 +24,7 @@ financial_api_transaction - responsavel pelo tratamento dos dados e pela comunic
 A coluna "Categoria" é quem receberá os dados vindos dos modelos. Ao inserir e salvar os dados a descrição da transação é enviada para os 4 modelos que irão fazer a classificação independente um do outro. Um sistema de votção recebe os quatro resultados e verifica qual foi a categoria mais votada. Se ao menos dois modelos estiverem de acordo com a classificação, ela será enviada para ser salva no banco. Se não houver um concenso e os quatro modelos não chegarem a um acordo, a categoria gravada será "CND".
 
 ### **4. Preenchimento automatizado **
-A pasta "financial_api_transaction" possui dois testes um automatizado e outro semiautomatizado.
+A pasta "financial_api_transaction" possui dois testes um automatizado e outro interativo.
 test_app.py - Este teste é um pytest e verifica o retorno dos quatro modelos.
 
 Para rodar o teste:
