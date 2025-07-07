@@ -1,0 +1,14 @@
+2025-07-04 23:33:01,943 - app - WARNING - Erro ao deletar Instituição Financeira #'422'
+2025-07-05 00:17:00,631 - app - WARNING - Erro ao deletar Instituição Financeira #'260'
+2025-07-05 00:17:47,868 - app - ERROR - Erro ao executar a função add_bank: (sqlite3.IntegrityError) UNIQUE constraint failed: bank.bank_id
+[SQL: INSERT INTO bank (bank_id, bank_description, bank_ispb, bank_fullname) VALUES (?, ?, ?, ?)]
+[parameters: ('260', 'NU', '18236120', 'NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 00:17:47,871 - app - ERROR - Erro ao executar a função add_bank: (sqlite3.IntegrityError) UNIQUE constraint failed: bank.bank_id
+[SQL: INSERT INTO bank (bank_id, bank_description, bank_ispb, bank_fullname) VALUES (?, ?, ?, ?)]
+[parameters: ('260', 'NU', '18236120', 'NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:15:58,200 - app - ERROR - Erro ao executar a função add_bank: (sqlite3.IntegrityError) UNIQUE constraint failed: bank.bank_id
+[SQL: INSERT INTO bank (bank_id, bank_description, bank_ispb, bank_fullname) VALUES (?, ?, ?, ?)]
+[parameters: ('1', 'BANCO DO BRASIL', '00000000', 'Banco do Brasil S.A.')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
