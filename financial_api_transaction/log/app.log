@@ -1,0 +1,583 @@
+2025-06-24 14:29:16,773 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:29:16,833 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:29:16,884 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:29:16,898 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:51:45,570 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:51:45,622 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:51:45,647 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:51:45,650 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:53:27,796 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:53:27,813 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:53:27,839 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:53:27,843 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:55:01,527 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:55:01,538 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:55:01,559 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-24 14:55:01,563 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 12:07:36,505 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 12:07:36,536 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 12:07:36,570 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 12:07:36,579 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:04:27,246 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:21:48,425 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:22:54,836 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:23:19,441 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:23:37,086 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:27:34,184 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 22:46:12,534 - app - ERROR - Erro inesperado: 'transaction'
+2025-06-25 22:49:13,259 - app - ERROR - Erro inesperado: 'transaction'
+2025-06-25 22:51:22,139 - app - ERROR - Erro inesperado: 'transaction'
+2025-06-25 22:59:03,181 - app - ERROR - Erro inesperado: 'str' object has no attribute 'date'
+2025-06-25 22:59:08,449 - app - ERROR - Erro inesperado: 'str' object has no attribute 'date'
+2025-06-25 23:00:05,192 - app - ERROR - Erro inesperado: 'str' object has no attribute 'date'
+2025-06-25 23:00:27,535 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 23:00:27,611 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-25 23:02:09,120 - app - ERROR - Erro inesperado: 'str' object has no attribute 'date'
+2025-06-25 23:52:45,063 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-25 23:52:45,075 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-25 23:52:45,075 - app - ERROR - Erro inesperado: __init__() missing 3 required positional arguments: 'transaction_description', 'category_id', and 'account_id'
+2025-06-26 00:03:21,136 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:03:21,148 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:04:22,587 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:04:22,588 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:04:22,632 - app - ERROR - Erro inesperado: 'transaction'
+2025-06-26 00:06:29,446 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:06:29,446 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:06:29,446 - app - ERROR - Erro inesperado: 'transaction'
+2025-06-26 00:08:13,140 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:08:13,147 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:08:13,157 - app - ERROR - Erro inesperado: dtype='numeric' is not compatible with arrays of bytes/strings.Convert your data to numeric values explicitly instead.
+2025-06-26 00:09:53,731 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-26 00:09:53,734 - app - WARNING - Data inválida '2025-01-01' - usando padrão. Erro: time data '2025-01-01' does not match format '%d-%m-%Y'
+2025-06-27 22:38:32,900 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-27 22:38:32,934 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-27 22:38:32,955 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-27 22:38:32,961 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-27 23:09:16,309 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-27 23:09:16,448 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 09:10:34,287 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 09:10:34,726 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 09:13:11,967 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 09:13:12,010 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 09:13:29,336 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 09:13:29,388 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-28 17:35:50,289 - app - WARNING - Data inválida '2025-06-28' - usando padrão. Erro: time data '2025-06-28' does not match format '%d/%m/%Y'
+2025-06-28 17:35:50,306 - app - WARNING - Data inválida '2025-06-28' - usando padrão. Erro: time data '2025-06-28' does not match format '%d/%m/%Y'
+2025-06-28 17:37:49,034 - app - WARNING - Data inválida '2025-06-28' - usando padrão. Erro: time data '2025-06-28' does not match format '%d/%m/%Y'
+2025-06-28 17:37:49,034 - app - WARNING - Data inválida '2025-06-28' - usando padrão. Erro: time data '2025-06-28' does not match format '%d/%m/%Y'
+2025-06-28 17:37:49,034 - app - ERROR - Erro inesperado: name 'category_id' is not defined
+2025-06-28 18:00:08,077 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 19:35:19,926 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 19:36:47,789 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 19:52:33,307 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 19:54:17,235 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 19:54:17,235 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (8, '2025-06-28', '2025-06-28', 'Pusadda Pé da Serra', None, 1, 1, 'str', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 19:55:07,932 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 19:55:07,936 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (8, '2025-06-28', '2025-06-28', 'Pusadda Pé da Serra', None, 1, 1, 'str', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 20:02:46,792 - app - WARNING - Formato de data inválido: '2025-06-28T23:02:41.934Z'
+2025-06-28 20:02:46,792 - app - WARNING - Formato de data inválido: '2025-06-28T23:02:41.934Z'
+2025-06-28 20:02:46,792 - app - ERROR - Dados inválidos ou ausentes na requisição
+2025-06-28 20:02:59,509 - app - WARNING - Formato de data inválido: '2025-06-28T23:02:41.934Z'
+2025-06-28 20:02:59,510 - app - WARNING - Formato de data inválido: '2025-06-28T23:02:41.934Z'
+2025-06-28 20:02:59,510 - app - ERROR - Dados inválidos ou ausentes na requisição
+2025-06-28 20:04:16,657 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 20:04:16,657 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (8, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'S', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 20:29:17,522 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 20:34:21,726 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 20:40:08,455 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 20:44:42,279 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 20:44:58,258 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (11, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 20:57:14,267 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:00:19,633 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:05:24,499 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:11:26,559 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:12:28,397 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:12:28,427 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (15, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:13:32,425 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:14:51,591 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:15:11,654 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (16, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:15:51,813 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:19:26,838 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:19:35,638 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:27:56,167 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:28:04,700 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:34:46,915 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:34:46,925 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:36:56,307 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:36:56,322 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:39:28,579 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:40:21,280 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:43:13,262 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:43:25,062 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:44:51,402 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:45:04,116 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:48:48,566 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:49:25,990 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:53:35,028 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:53:45,329 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:54:25,167 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:54:35,237 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:56:42,180 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:56:54,038 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 21:57:27,670 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 21:57:41,660 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:04:14,807 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 22:04:26,651 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:04:54,916 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 2 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 22:04:54,926 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (17, '2025-06-28', '2025-06-28', 'pousada pe no chao', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:05:45,961 - app - ERROR - Erro de predição: Expected 2D array, got 1D array instead:
+array=[<Compressed Sparse Row sparse matrix of dtype 'float64'
+ 	with 1 stored elements and shape (1, 1000)>           ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample..
+2025-06-28 22:05:54,070 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:06:56,249 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:07:12,349 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:07:23,472 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:07:23,484 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:08:20,139 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:08:20,155 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:10:16,756 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:10:24,307 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:10:59,736 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:11:04,056 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:12:18,970 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:12:32,160 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:18:16,534 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:18:16,551 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:19:12,870 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:19:12,904 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:20:07,748 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:20:07,775 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:20:09,717 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:20:09,717 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:21:34,270 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:21:34,314 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:22:24,456 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:22:27,840 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:23:07,387 - app - ERROR - Erro de predição: 'list' object has no attribute 'lower'.
+2025-06-28 22:23:12,599 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:24:13,318 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:26:12,718 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', None, 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:30:41,671 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'POUSADA', array(['DNC'], dtype=object), 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-28 22:32:32,374 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (9, '2025-06-28', '2025-06-28', 'pousada pe na terra', 'ABS', 1, 1, 'CRD', 'D', 123.45, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-29 22:51:35,619 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 22:51:35,681 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 22:51:35,718 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 22:51:35,738 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 23:11:36,608 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:18:33,945 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:18:52,843 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:19:17,834 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:32:18,575 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:40:22,167 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:45:24,572 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:48:20,720 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:48:20,720 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 23:51:23,185 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:51:23,185 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 23:53:59,248 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:53:59,255 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-29 23:58:45,247 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-29 23:58:45,333 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-30 00:00:29,146 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-06-30 00:00:29,166 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-30 00:01:08,662 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-01 23:05:55,093 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-01 23:23:36,268 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-01 23:24:21,196 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-01 23:24:57,123 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-01 23:27:12,380 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-01 23:59:53,746 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:02:54,712 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:10:27,750 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:18:22,289 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:19:39,174 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:25:42,892 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:26:15,303 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 00:31:23,473 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 20:58:34,730 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-02 21:00:00,712 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-04 00:23:53,818 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('13', '2025-07-03', '2025-07-03', 'amazon', 'ASS', '1', '1', 'crd', 'd', 10.0, 'a')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-04 00:30:01,418 - app - WARNING - Erro ao deletar transação #'13'
+2025-07-04 19:53:11,171 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('14', '2025-07-04', '2025-07-04', 'mc donalds', 'BAR', '1', '1', 'CRD', 'D', 120.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-04 20:38:05,799 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('15', '2025-05-04', '2025-05-05', 'MC DONADS', 'BAR', '1', '1', 'CRD', 'D', 200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-04 20:45:30,573 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('16', '2025-07-07', '2025-07-07', 'CASA DO PÃO DE QUEIJO', 'MER', '1', '1', 'CRD', 'D', 20.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-04 21:41:59,210 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('17', '2025-07-07', '2025-07-07', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.9, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-04 22:11:28,540 - app - WARNING - Erro ao deletar transação #'16'
+2025-07-04 22:11:46,709 - app - WARNING - Erro ao deletar transação #'2'
+2025-07-04 23:03:21,320 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('16', '2025-07-04', '2025-07-06', 'casa do pão de queijo', 'MER', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 00:08:46,325 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:08:47,930 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:08:48,808 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:08:49,291 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:08:49,548 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:08:50,119 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:08:51,359 - app - WARNING - Erro ao deletar transação #'4'
+2025-07-05 00:16:03,947 - app - WARNING - Erro ao deletar transação #'8'
+2025-07-05 01:23:40,776 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:40,776 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:40,776 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:40,790 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:40,811 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:41,812 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:42,130 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:42,228 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:42,260 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:42,269 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:23:42,371 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('2', '2025-02-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:24:36,181 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('17', '2025-06-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:24:36,187 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('17', '2025-06-03', '2025-06-03', 'Compra Supermercado Carrefour', 'MER', '1', '1', 'CRD', 'D', 189.5, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:26:40,763 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('18', '2025-06-30', '2025-06-30', 'Compra Riachuelo Shopping', 'LOJ', '1', '1', 'CRD', 'D', 149.9, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:37:30,103 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('19', '2025-06-30', '2025-06-30', 'Compra Cinemark Ingresso', 'LAZ', '1', '1', 'CRD', 'D', 38.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 01:58:40,306 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('23', '2025-06-28', '2025-06-28', 'Assinatura Microsoft 365', 'ASS', '1', '1', 'crd', 'd', 223.5, 'a')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,469 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,485 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,485 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,496 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,534 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,891 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 02:11:33,917 - app - ERROR - Erro ao executar a função add_transaction: (sqlite3.IntegrityError) UNIQUE constraint failed: transaction.transaction_id
+[SQL: INSERT INTO "transaction" (transaction_id, transaction_date, transaction_expiration_date, transaction_description, category_id, account_id, branch_id, resource_id, transaction_type, transaction_value, transaction_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('24', '2025-06-27', '2025-06-27', 'Pagamento Cartão de Crédito Santander', 'CRD', '1', '1', 'CRD', 'D', 1200.0, 'A')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 16:51:24,450 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 16:51:24,553 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-07-05 16:53:16,598 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 16:53:16,664 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-07-05 16:56:10,803 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 16:58:41,870 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 17:16:04,611 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 17:16:04,664 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 17:16:04,668 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 17:16:04,672 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 17:17:26,553 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 17:17:26,561 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 17:17:26,570 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 17:17:26,570 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 18:58:56,776 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:01:04,706 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:02:09,280 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:06:37,717 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:06:37,785 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:08:30,009 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:08:33,310 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:10:48,130 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:10:48,195 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:10:48,198 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:10:48,200 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:12:51,650 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:12:55,100 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:12:55,122 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:14:57,651 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:14:57,706 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:14:57,710 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:14:57,723 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:16:19,816 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:16:19,873 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:16:19,878 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:16:19,883 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:19:07,058 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:19:07,116 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:19:07,125 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:19:07,141 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:26:43,574 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:26:43,699 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:26:43,702 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:26:43,705 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:33:45,726 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:33:45,770 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:33:45,772 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:33:45,772 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 19:40:44,363 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 19:40:44,411 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 19:40:44,419 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 19:40:44,425 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 20:05:02,854 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 20:05:02,925 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 20:05:02,931 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 20:05:02,940 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 20:06:53,892 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 20:06:53,927 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 20:06:53,934 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 20:06:53,938 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 20:08:13,484 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 20:08:13,506 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 20:08:13,509 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 20:08:13,511 - app - ERROR - Erro na predição com CNN: erro
+2025-07-05 20:53:22,084 - app - WARNING - Formato de data inválido: 'invalid-date'
+2025-07-05 20:53:22,145 - app - ERROR - Erro ao fazer predição com regressão logística/Randon Forest: erro
+2025-07-05 20:53:22,165 - app - ERROR - Erro ao fazer predição com Naive Bayes: erro
+2025-07-05 20:53:22,165 - app - ERROR - Erro na predição com CNN: erro
