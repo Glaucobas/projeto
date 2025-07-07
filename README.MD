@@ -15,7 +15,9 @@ Na pasta principal do projeto foi disponibilizado um arquivo docker-compose.yml.
 ### **3. Para testar o funcionamento **
 O projeto tem três pastas principais.
 financial_frontend - com os arquivos do frontend.
+
 financial_api_proxy - serve como ponte entre o frontend e o restante do projeto. Sem essa API o frontend não consegue se comunicar com as outras APIs.
+
 financial_api_transaction - responsavel pelo tratamento dos dados e pela comunicação com o banco.
 
 ### **3. Preenchimento automatizado **
