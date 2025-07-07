@@ -1,0 +1,426 @@
+2025-04-13 10:43:59,490 - app - ERROR - Erro ao conectar com a API externa: 401 Client Error: UNAUTHORIZED for url: http://localhost:5001/category
+2025-04-13 10:44:35,210 - app - ERROR - Erro ao conectar com a API externa: 401 Client Error: UNAUTHORIZED for url: http://localhost:5001/category
+2025-04-13 15:35:03,583 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:35:32,570 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:35:59,499 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:36:46,054 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:42:04,781 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:43:30,319 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:49:27,722 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:49:58,879 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:51:27,524 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:53:53,931 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:54:25,275 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:55:45,631 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:58:30,266 - app - ERROR - Erro inesperado: patch_category() missing 1 required positional argument: 'requests'
+2025-04-13 15:59:06,388 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:59:55,094 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:01:10,059 - app - ERROR - Erro inesperado: name 'bo' is not defined
+2025-04-13 16:01:38,705 - app - ERROR - Erro inesperado: name 'bo' is not defined
+2025-04-13 16:02:57,639 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:05:27,341 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:05:49,674 - app - ERROR - Erro ao conectar com a API externa: 401 Client Error: UNAUTHORIZED for url: http://localhost:5001/category
+2025-04-13 16:06:10,877 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:15:43,730 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5004/branch
+2025-04-13 16:19:53,923 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5004/branch
+2025-04-13 16:20:15,858 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5004/branch
+2025-04-13 16:23:42,188 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:24:00,065 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:24:19,288 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:25:04,931 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:25:11,834 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:25:58,210 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:26:04,230 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:30:52,469 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:31:54,237 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:32:10,430 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:32:39,277 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:34:25,411 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:36:07,799 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:36:31,820 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:36:38,961 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:38:34,760 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:39:03,301 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:40:04,566 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:40:30,785 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:41:52,996 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:42:09,792 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:42:20,621 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:45:15,222 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:45:39,906 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:49:57,965 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 17:00:38,998 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 17:01:53,736 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 19:03:38,978 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 22:13:41,770 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 22:24:18,979 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:34:18,208 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:34:47,760 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:35:49,557 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:37:43,647 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:41:33,947 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:42:11,191 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:51:24,878 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:52:25,250 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:53:05,873 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-11 23:53:27,143 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:07:08,737 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:07:51,002 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:16:46,283 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:18:23,930 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:21:34,849 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:22:18,679 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:24:51,312 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:28:26,278 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:32:04,587 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:35:28,244 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:43:03,020 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:46:59,660 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:50:48,310 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 00:59:48,310 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 01:07:12,050 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-12 01:08:04,941 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-16 23:14:11,009 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5001/category
+2025-06-16 23:14:16,947 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5001/category
+2025-06-16 23:14:20,501 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5001/category
+2025-06-16 23:14:27,583 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5001/category
+2025-06-17 23:12:22,818 - app - ERROR - Erro de conexão com a API externa.
+2025-06-17 23:26:49,811 - app - ERROR - Erro de conexão com a API externa.
+2025-06-17 23:26:56,682 - app - ERROR - Erro de conexão com a API externa.
+2025-06-17 23:52:39,469 - app - ERROR - Erro de conexão com a API externa.
+2025-06-17 23:52:46,979 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 13:30:24,852 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 14:13:43,609 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 14:13:50,458 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:11:21,505 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:11:28,409 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:11:28,956 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:11:37,708 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:11:42,383 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:11:49,231 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:27:10,761 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:39:20,362 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:41:22,919 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:48:47,027 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:49:24,493 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 16:50:14,062 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:37:01,274 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:37:50,588 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:37:52,046 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:47:47,398 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:48:56,425 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:50:00,655 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 17:50:49,484 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:01:25,002 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:07:19,802 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:12:54,542 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:12:59,375 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:13:00,739 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:16:45,708 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:16:53,743 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:17:01,537 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:17:15,546 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:19:07,442 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:35:24,428 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:40:08,362 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:40:16,045 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:40:21,807 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:45:46,553 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:45:57,472 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:48:49,607 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:49:47,373 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-06-19 18:56:24,825 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:56:30,589 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:56:40,051 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:56:45,474 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:56:53,935 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:05,142 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:10,985 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:26,692 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:37,446 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:41,949 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:47,003 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:57:50,854 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:10,729 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:15,041 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:18,834 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:21,471 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:25,395 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:47,798 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:58:53,305 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:59:03,572 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 18:59:10,204 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:00:01,282 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:04:02,242 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:04:13,842 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:04:15,437 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:07:53,044 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:08:42,161 - app - ERROR - Erro de conexão com a API externa.
+2025-06-19 19:09:20,461 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 17:38:08,323 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 17:42:56,503 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 17:44:31,073 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:23:19,496 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:23:25,124 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:24:16,523 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:25:16,342 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:25:30,614 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:29:03,166 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:31:11,543 - app - ERROR - Erro de conexão com a API externa.
+2025-06-20 19:31:58,081 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:32:20,810 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:33:09,298 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:33:38,064 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:34:50,954 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:35:46,790 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:37:08,521 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:41:39,211 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:54:19,219 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:54:21,451 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:54:57,184 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:55:31,596 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:55:36,533 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:55:38,684 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:55:43,476 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:55:45,379 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:03,278 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:03,780 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:09,944 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:12,610 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:16,531 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:17,529 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:20,675 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:21,307 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:27,413 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:30,877 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:54,726 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:55,074 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:57:59,375 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:01,942 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:05,243 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:06,570 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:24,914 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:30,016 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:30,271 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:32,765 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:34,674 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:35,462 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:36,356 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:37,958 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:39,708 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:41,396 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:43,334 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:44,107 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:45,741 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:47,706 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:49,709 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 20:58:51,940 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:01:00,348 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:01:52,294 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:01:57,964 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:05,251 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:06,314 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:11,996 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:15,180 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:21,808 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:34,763 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:47,061 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:55,261 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:02:55,944 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:08,162 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:08,495 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:26,062 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:27,309 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:34,192 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:37,895 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:41,912 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:45,060 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:03:45,992 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:16,661 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:18,375 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:36,123 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:37,177 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:40,814 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:44,878 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:47,143 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:49,472 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:51,107 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:54,056 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:04:59,438 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:05:01,923 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:05:08,676 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:05:10,790 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:05:23,969 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:05:28,888 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:05:32,030 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:06:46,333 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:06:47,718 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:06:51,552 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:06:54,117 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:07:07,597 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:10:11,626 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:10:15,777 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:11:10,156 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:11:16,606 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:11:23,105 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:14:16,780 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:19:57,628 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:20:07,662 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:27:28,639 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:34:25,763 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:40:16,287 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:46:09,020 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 21:50:26,288 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 22:02:04,513 - app - ERROR - Erro de conexão com a API externa.
+2025-06-23 22:02:37,655 - app - ERROR - Erro de conexão com a API externa.
+2025-06-25 21:53:52,135 - app - ERROR - Erro ao conectar com a API externa: 405 Client Error: METHOD NOT ALLOWED for url: http://localhost:5006/transaction
+2025-06-25 21:57:48,750 - app - ERROR - Erro ao conectar com a API externa: 405 Client Error: METHOD NOT ALLOWED for url: http://localhost:5006/transaction
+2025-06-25 22:01:49,512 - app - ERROR - Erro ao conectar com a API externa: 405 Client Error: METHOD NOT ALLOWED for url: http://localhost:5006/predizer
+2025-06-25 22:45:43,009 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-06-25 22:46:12,852 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 22:49:13,262 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 22:51:22,146 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 22:59:03,183 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 22:59:08,451 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 23:00:05,192 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 23:02:09,120 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-25 23:52:45,090 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-26 00:04:22,636 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-26 00:06:29,452 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-26 00:08:13,176 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-06-26 00:09:53,754 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-06-28 00:09:20,874 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-06-28 00:19:45,472 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-06-28 08:55:13,052 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-02 22:54:48,605 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:38:00,303 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:38:03,495 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:38:04,608 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:38:05,264 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:38:05,859 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:46:26,175 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:46:26,981 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:46:27,781 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:46:28,480 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:46:29,035 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:48:20,803 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:48:24,897 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:48:27,802 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 01:48:28,545 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 19:19:08,296 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:12:34,936 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-03 22:12:34,937 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-03 22:12:35,637 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-03 22:12:36,081 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-03 22:12:36,083 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-03 22:13:11,936 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:21:13,255 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:21:48,662 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:22:36,145 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:25:36,312 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 22:25:36,314 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 22:25:58,782 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 22:25:58,831 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 22:26:47,899 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 22:26:47,935 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 22:31:18,607 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:37:29,741 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:06,231 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:07,727 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:09,825 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:11,323 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:11,991 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:18,289 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 22:42:20,712 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:28,753 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:30,997 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:51,449 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:51,899 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:52,713 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:53,225 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:07:53,637 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:09:05,995 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:09:06,594 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:09:08,105 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:09:08,776 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:09:09,319 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:12:02,203 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:24:40,051 - app - ERROR - Erro de conexão com a API externa.
+2025-07-03 23:29:54,520 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-03 23:29:54,520 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:23:53,493 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 00:23:53,493 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 00:25:49,250 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:25:49,259 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:26:06,757 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:26:07,067 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:30:01,418 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-04 00:30:20,060 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 00:32:27,584 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:32:27,736 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:38:49,526 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:38:49,613 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5006/transaction
+2025-07-04 00:49:26,571 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 18:43:59,689 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 19:30:37,294 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 19:52:54,025 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 19:52:54,057 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 20:06:55,468 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 20:38:05,803 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-04 20:44:18,216 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 20:45:30,587 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-04 20:45:39,872 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 20:58:25,317 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 21:41:57,157 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 21:41:57,157 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 22:11:28,551 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-04 22:11:46,709 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-04 23:03:19,620 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 23:03:19,622 - app - ERROR - Erro de conexão com a API externa.
+2025-07-04 23:33:01,950 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5002/bank
+2025-07-05 00:08:46,369 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:08:47,935 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:08:48,869 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:08:49,323 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:08:49,556 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:08:50,119 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:08:51,364 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:16:04,011 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5006/transaction
+2025-07-05 00:17:00,637 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5002/bank
+2025-07-05 00:17:47,874 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5002/bank
+2025-07-05 00:17:47,877 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5002/bank
+2025-07-05 01:15:58,213 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5002/bank
+2025-07-05 01:23:38,492 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:23:38,499 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:23:38,534 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:23:38,549 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:23:38,549 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:23:38,550 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:23:41,862 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:23:42,171 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:23:42,246 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:23:42,273 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:23:42,292 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:23:42,373 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:24:36,188 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:24:36,208 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:26:40,770 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 01:28:30,459 - app - ERROR - Erro ao conectar com a API externa: 404 Client Error: NOT FOUND for url: http://localhost:5004/branch
+2025-07-05 01:28:32,524 - app - ERROR - Erro ao conectar com a API externa: 404 Client Error: NOT FOUND for url: http://localhost:5004/branch
+2025-07-05 01:37:07,633 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:37:07,635 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:58:35,378 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 01:58:40,342 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 02:11:31,138 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 02:11:31,138 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 02:11:31,138 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 02:11:31,138 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 02:11:31,154 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 02:11:31,154 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 02:11:33,902 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 02:11:33,917 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5006/transaction
+2025-07-05 02:22:10,010 - app - ERROR - Erro de conexão com a API externa.
+2025-07-05 15:48:10,114 - app - ERROR - Erro ao conectar com a API externa: 400 Client Error: BAD REQUEST for url: http://localhost:5001/category
+2025-07-05 15:52:50,697 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-05 15:55:45,883 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
+2025-07-05 16:33:55,237 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category

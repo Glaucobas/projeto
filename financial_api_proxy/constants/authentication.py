@@ -1,0 +1,5 @@
+AUTH0_DOMAIN = "dev-kvktf5f7pcfgrzok.us.auth0.com"
+CLIENT_ID = "EN0wZjz12dXTlhC9g5CgCr938e4LFuDd"
+API_IDENTIFIER = "FINANCIAL_API"
+API_AUDIENCE = "https://dev-kvktf5f7pcfgrzok.us.auth0.com/api/v2/"
+API2_TOKEN = "banana"
