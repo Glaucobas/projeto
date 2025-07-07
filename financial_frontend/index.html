@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sistema de controle financeiro pessoal">
+    <title>Financeiro 3.0.0</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  
+  <body>
+    <div class="background"></div>
+    <div class="main-content">
+      <div class="header-container">
+        
+        <!-- Cabeçalho -->
+        <header class="header"> 
+          <h1>Controle Financeiro 3.0</h1>
+        </header>
+        
+        <!-- Barra de configurações -->
+        <div class="config-bar" role="toolbar" aria-label="Configurações">
+          <button class="config-button" aria-label="Configurações">Configurações</button>
+          <button class="config-button" aria-label="Perfil">Perfil</button>
+          <button class="config-button" aria-label="Ajuda">Ajuda</button>
+        </div>
+      </div>
+
+      <!-- Menu de navegação -->
+      <nav class="main-nav" arial-label="Navegação Principal">
+        <button class="nav-button active" data-page="home-page" data-endpoint="/transaction">Home</button>
+        <button class="nav-button" data-page="category-page" data-endpoint="/category">Categorias</button>
+        <button class="nav-button" data-page="bank-page" data-endpoint="/bank">Inst. Financeiras</button>
+        <button class="nav-button" data-page="branch-page" data-endpoint="/branch">Agências</button>
+        <button class="nav-button" data-page="resource-page" data-endpoint="/resource">Recursos</button>
+        <button class="nav-button" data-page="account-page" data-endpoint="/account">Contas</button>
+        <button class="nav-button" data-page="transaction-page" data-endpoint="/transaction">Transações</button>
+      </nav>
+
+      <!-- Página Home -->
+      <section id="home-page" class="page active" aria-labelledby="home-title">
+        
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Resumo Financeiro Mensal</h1>
+        </div> 
+
+        <!-- Conteudo da página Home -->
+        <div class="page-content">
+          
+          <!-- Card Sumário -->
+          <div class="summary-cards">
+            <div class="summary-card total-income">
+              <h3>Receitas</h3>
+              <p id="total-income">R$ 0,00</p>
+            </div>
+            <div class="summary-card total-expenses">
+              <h3>Despesas</h3>
+              <p id="total-expenses">R$ 0,00</p>
+            </div>
+            <div class="summary-card balance">
+              <h3>Saldo</h3>
+              <p id="balance">R$ 0,00</p>
+            </div>
+          </div>
+          
+          <!-- Card Gráficos -->
+          <div class="charts-container">
+            <div class="chart-card">
+              <h3>Transações por Categoria</h3>
+                <div class="chart-wrapper">
+                  <canvas id="categories-chart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+              <h3>Evolução Mensal</h3>
+              <div class="chart-wrapper">
+                <canvas id="monthly-trend-chart"></canvas>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card Recentes -->
+          <div class="recents-table">
+            <h3>Transações do Mês</h3>
+            <div class="table-container">
+              <table id="home-items-table" class="data-table" aria-describedby="home-table-desc">
+                <thead>
+                  <tr>
+                    <th>Data</th>
+                    <th>Descrição</th>
+                    <th>Categoria</th>
+                    <th>Valor</th>
+                    <th>Tipo</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- As transações serão inseridas aqui via JavaScript -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+          
+      <!-- Página Categorias -->
+      <section id="category-page" class="page" aria-labelledby="category-title" hidden>
+      
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Categorias</h1>
+        </div> 
+        
+        <div class="page-content">
+          
+          <!-- Seção de busca -->
+          <div class="search" role="search" aria-labelledby="Pesquisa">
+            <label for="category-search" class="sr-only"></label>
+            <input type="text" id="category-search" placeholder="Procurar Categorias">
+            <button class="btn-search" data-action="search" data-table="category-items-table">Pesquisar</button>
+          </div> 
+        
+
+          <!-- Seção de formulário -->
+          <form id="category-form" class="data-form">
+            <table id="category-items-table" class="data-table" aria-describedby="category-table-desc">
+              <thead>
+                <tr>
+                  <th scope="col" id="category_id">Código</th>
+                  <th scope="col" id="category_description">Descrição</th>
+                  <th scope="col" id="category_type">Tipo</th>
+                  <th scope="col">Ações</th>
+                </tr>
+                </thead>
+                <tbody>
+                  <!-- Conteúdo dinâmico -->
+                </tbody>
+            </table>
+            <button type="button" class="btn-add" data-action="add-row" data-entity-type="category">Adicionar</button>
+          </form>
+        </div> 
+      </section>
+
+      <!-- Página Bancos -->
+      <section id="bank-page" class="page" aria-labelledby="bank-title" hidden>
+      
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Instituições Financeiras</h1>
+        </div>
+
+        <div class="page-content">
+          
+          <!-- Seção de busca -->
+          <div class="search" role="search" aria-labelledby="Pesquisa">
+            <label for="bank-search" class="sr-only"></label>
+            <input type="text" id="bank-search" placeholder="Procurar Instituições Financeiras">
+            <button class="btn-add" data-action="search" data-table="bank-items-table">Pesquisar</button>
+          </div>
+
+          <!-- Seção de formulário -->
+          <form id="bank-form" class="data-form">
+            <table id="bank-items-table" class="data-table" aria-describedby="bank-table-desc">
+              <thead>
+                <tr>
+                  <th scope="col" id="bank_id">Código</th>
+                  <th scope="col" id="bank_description">Descrição</th>
+                  <th scope="col" id="bank_ispb">ISPB</th>
+                  <th scope="col" id="bank_type">Tipo</th>
+                  <th scope="col">Ações</th>
+                </tr>
+              </thead>
+              <tbody>
+                <!-- Conteúdo dinâmico -->
+              </tbody>
+            </table>
+            <button type="button" class="btn-add" data-action="add-row" data-entity-type="bank">Adicionar</button>
+          </form>
+        </div>
+      </section>
+        
+      <!-- Página Agências -->       
+      <section id="branch-page" class="page" aria-labelledby="branch-title" hidden>
+      
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Agências</h1>
+        </div>
+        
+        <div class="page-content">
+          
+          <!-- Seção de busca -->
+          <div class="search" role="search">
+            <label for="branch-search" class="sr-only"></label>
+              <input type="text" id="branch-search" placeholder="Procurar Agências">
+              <button class="btn-add" data-action="search" data-table="branch-items-table">Pesquisar</button>
+          </div>
+          
+          <!-- Seção de formulário -->
+          <form id="branch-form" class="data-form" aria-labelledby="Pesquisa">
+            <div class="table-container">
+              <table id="branch-items-table" class="data-table" aria-describedby="branch-table-desc">
+                <thead>
+                  <tr>
+                    <th scope="col" id="branch_bank_id">Banco</th>
+                    <th scope="col" id="branch_id">Código</th>
+                    <th scope="col" id="branch_description">Descrição</th>
+                    <th scope="col" id="branch_cep">CEP</th>
+                    <th scope="col" id="branch_address">Endereço</th>
+                    <th scope="col" id="branch_number">Número</th>
+                    <th scope="col" id="branch_complement">Complemento</th>
+                    <th scope="col" id="branch_district">Bairro</th>
+                    <th scope="col" id="branch_city">Cidade</th> 
+                    <th scope="col" id="branch_state">Estado</th>
+                    <th scope="col" id="branch_country">País</th>
+                    <th scope="col" id="branch_phone">Telefone</th>
+                    <th scope="col" id="branch_email">E-mail</th>
+                    <th scope="col">Ações</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Conteúdo dinâmico -->
+                </tbody>
+              </table>
+            </div>
+            <button type="button" class="btn-add" data-action="add-row" data-entity-type="branch">Adicionar</button>
+          </form>
+        </div>
+      </section>
+
+      <!-- Páginas Recursos -->
+      <section id="resource-page" class="page" aria-labelledby="resource-title" hidden>
+      
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Recursos</h1>
+        </div>
+        
+        <div class="page-content">
+
+          <!-- Seção de busca -->
+          <div class="search" role="search" aria-labelledby="Pesquisa">
+            <label for="resource-search" class="sr-only"></label>
+              <input type="text" id="resource-search" placeholder="Procurar Recursos">
+              <button class="btn-add" data-action="search" data-table="resource-items-table">Pesquisar</button>
+          </div>
+          
+          <!-- Seção de formulário -->
+          <form id="resource-form" class="data-form">
+            <table id="resource-items-table" class="data-table" aria-describedby="resource-table-desc">
+              <thead>
+                <tr>
+                  <th scope="col" id="resource_id">Código</th>
+                  <th scope="col" id="resource_description">Descrição</th>
+                  <th scope="col" id="resource_status">Status</th>
+                  <th scope="col">Ações</th>
+                </tr>
+              </thead>
+              <tbody>
+                <!-- Conteúdo dinâmico -->
+              </tbody>
+            </table>
+            <button type="button" class="btn-add" data-action="add-row" data-entity-type="resource">Adicionar</button>
+          </form>
+        </div>
+      </section>
+        
+      <!-- Páginas Contas -->
+      <section id="account-page" class="page" aria-labelledby="account-title" hidden>
+      
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Contas</h1>
+        </div>
+
+        <div class="page-content">
+          
+          <!-- Seção de busca -->
+          <div class="search" role="search" aria-labelledby="Pesquisa">
+            <label for="account-search" class="sr-only"></label>
+            <input type="text" id="account-search" placeholder="Procurar Contas">
+            <button class="btn-add" data-action="search" data-table="account-items-table">Pesquisar</button>
+          </div>
+          
+          <!-- Seção de formulário -->
+          <form id="account-form" class="data-form">
+            <table id="account-items-table" class="data-table" aria-describedby="account-table-desc">
+              <thead>
+                <tr>
+                  <th scope="col" id="account_id">Conta</th>
+                  <th scope="col" id="branch_id">Agência</th>
+                  <th scope="col" id="resource_id">Recurso</th>
+                  <th scope="col">Ações</th>
+                </tr>
+              </thead>
+              <tbody>
+                <!-- Conteúdo dinâmico -->
+              </tbody>
+            </table>
+              <button type="button" class="btn-add" data-action="add-row" data-entity-type="account">Adicionar</button>
+          </form>
+        </div>
+      </section>
+        
+      <!-- Página Transações -->
+      <section id="transaction-page" class="page" aria-labelledby="transaction-title" hidden>
+      
+        <!-- Título da página -->
+        <div class="header-page">
+          <h1>Transações</h1>
+        </div>
+
+        <div class="page-content">
+          
+          <!-- Seção de busca -->
+          <div class="search" role="search">
+            <label for="transaction-search" class="sr-only"></label>
+            <input type="text" id="transaction-search" placeholder="Procurar transações">
+            <button class="btn-add" data-action="search" data-table="transaction-items-table">Pesquisar</button>
+          </div>
+
+          <!-- Seção de formulário -->
+          <form id="transaction-form" class="data-form">
+            <div class="table-container">
+              <table id="transaction-items-table" class="data-table" aria-describedby="transaction-table-desc">
+                <thead>
+                  <tr>
+                    <th scope="col" id="transaction_id">Código</th>
+                    <th scope="col" id="transaction_date">Data Transação</th>
+                    <th scope="col" id="transaction_expiration_date">Vencimento</th>
+                    <th scope="col" id="transaction_description">Descrição</th>
+                    <th scope="col" id="transaction_category_id">Categoria</th>
+                    <th scope="col" id="transaction_account_id">Conta</th>
+                    <th scope="col" id="transaction_branch_id">Agência</th>
+                    <th scope="col" id="transaction_resource_id">Recurso</th>
+                    <th scope="col" id="transaction_type">Tipo</th>
+                    <th scope="col" id="transaction_value">Valor R$</th>
+                    <th scope="col" id="transaction_status">Status</th>
+                    <th scope="col">Ações</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Conteúdo dinâmico -->
+                </tbody>
+              </table>
+            </div>
+            <button type="button" class="btn-add" data-action="add-row" data-entity-type="transaction">Adicionar</button>
+          </form>
+        </div>
+      </section>
+      
+      <!-- Área de mensagens -->
+      <div id="message-area" class="message-area" role="status" aria-live="polite" hidden></div>
+    </div>
+    <script src="js/script.js" defer></script>
+  </body>
+</html>
