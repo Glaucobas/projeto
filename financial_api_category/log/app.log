@@ -1,0 +1,40 @@
+2025-04-13 12:39:26,898 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-04-13 16:05:49,662 - app - WARNING - Token inválido ou não corresponde à secret-key.
+2025-06-16 23:14:11,000 - app - WARNING - Erro ao deletar categoria #'422'
+2025-06-16 23:14:16,945 - app - WARNING - Erro ao deletar categoria #'374'
+2025-06-16 23:14:20,498 - app - WARNING - Erro ao deletar categoria #'260'
+2025-06-16 23:14:27,580 - app - WARNING - Erro ao deletar categoria #'33'
+2025-06-19 18:35:24,408 - app - ERROR - Erro no servidor: 'function' object has no attribute 'asc'
+2025-07-03 22:12:34,918 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-03 22:12:34,919 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-03 22:12:35,634 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-03 22:12:36,079 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-03 22:12:36,080 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 15:48:10,100 - app - WARNING - Erro ao deletar categoria #'TST'
+2025-07-05 15:52:50,693 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 15:55:45,874 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TS2', 'TESTE2', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-07-05 16:33:55,186 - app - ERROR - Erro ao executar a função add_category: (sqlite3.IntegrityError) UNIQUE constraint failed: category.category_id
+[SQL: INSERT INTO category (category_id, category_description, category_type) VALUES (?, ?, ?)]
+[parameters: ('TST', 'TESTE', 'D')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
