@@ -1,0 +1,49 @@
+services:
+  financial_api_proxy:
+    build: ./financial_api_account
+    image: financial_api_proxy
+    container_name: financial_api_proxy
+    ports:
+      - "5000:5000"
+  financial_api_category:
+    build: ./financial_api_category
+    image: financial_api_category
+    container_name: financial_api_category 
+    ports:
+      - "5001:5000"
+  financial_api_bank:
+    build: ./financial_api_bank
+    image: financial_api_bank
+    container_name: financial_api_bank
+    ports:
+      - "5002:5000"
+  financial_api_resource:
+    build: ./financial_api_resource
+    image: financial_api_resource
+    container_name: financial_api_resource 
+    ports:
+      - "5003:5000"
+  financial_api_branch:
+    build: ./financial_api_branch
+    image: financial_api_branch
+    container_name: financial_api_branch
+    ports:
+      - "5004:5000"
+  financial_api_account:
+    build: ./financial_api_account
+    image: financial_api_account
+    container_name: financial_api_account
+    ports:
+      - "5005:5000"
+  financial_api_transaction:
+    build: ./financial_api_transaction
+    image: financial_api_transaction
+    container_name: financial_api_transaction
+    ports:
+      - "5006:5000"
+  financial_frontend:
+    build: ./financial_frontend
+    image: financial_frontend
+    container_name: financial_frontend
+    ports:
+      - "8080:80"
